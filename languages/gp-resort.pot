@@ -1,0 +1,687 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gp-"
+"resort\n"
+"POT-Creation-Date: "
+"2021-08-01 17:50+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: "
+"goodwinpress@ya.ru\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit "
+"2.2.4\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: admin/load-options.php:103
+msgid "Открыть обсуждение"
+msgstr ""
+
+#: admin/load-options.php:104
+msgid "Cкрыть обсуждение"
+msgstr ""
+
+#: archive-rooms.php:117
+msgid "Площадь"
+msgstr ""
+
+#: archive-rooms.php:132
+#: files/back/theme-functions.php:320
+msgid "Подробнее"
+msgstr ""
+
+#: archive-rooms.php:134
+#: single-rooms.php:72
+msgid "Хочу такой номер"
+msgstr ""
+
+#: archive.php:45
+#: index.php:73
+msgid ""
+"На сайте пока нет записей"
+msgstr ""
+
+#: archive.php:52
+#: index.php:81
+msgid ""
+"Показать больше записей"
+msgstr ""
+
+#: comments.php:37
+msgid "Обсуждение:"
+msgstr ""
+
+#: comments.php:37
+msgid ""
+"пока нет комментариев"
+msgstr ""
+
+#: comments.php:37
+msgid "1 комментарий"
+msgstr ""
+
+#: comments.php:37
+msgid "% коммент."
+msgstr ""
+
+#: comments.php:53
+msgid ""
+"Предыдущие комментарии"
+msgstr ""
+
+#: comments.php:54
+msgid "Новые комментарии"
+msgstr ""
+
+#: comments.php:61
+msgid ""
+"Комментирование закрыто"
+msgstr ""
+
+#: comments.php:71
+#: comments.php:79
+msgid ""
+"Оставить комментарий"
+msgstr ""
+
+#: comments.php:72
+#: comments.php:80
+msgid "Отправить"
+msgstr ""
+
+#: comments.php:73
+msgid ""
+"Я даю согласие на сбор и "
+"обработку персональных "
+"данных."
+msgstr ""
+
+#: comments.php:73
+#: files/front/popup-contact.php:57
+#: files/front/popup-rooms.php:43
+msgid ""
+"Политика "
+"конфиденциальности"
+msgstr ""
+
+#: contact-page.php:78
+msgid "Время"
+msgstr ""
+
+#: contact-page.php:79
+msgid "Заезд"
+msgstr ""
+
+#: contact-page.php:80
+msgid "Выезд"
+msgstr ""
+
+#: contact-page.php:91
+msgid "Показать на карте"
+msgstr ""
+
+#: contact-page.php:95
+msgid "Телефоны"
+msgstr ""
+
+#: contact-page.php:100
+msgid "Набрать номер"
+msgstr ""
+
+#: contact-page.php:106
+msgid "WhatsApp"
+msgstr ""
+
+#: contact-page.php:107
+msgid "Мессенджер"
+msgstr ""
+
+#: contact-page.php:111
+msgid "Открыть чат"
+msgstr ""
+
+#: contact-page.php:117
+msgid "Booking.com"
+msgstr ""
+
+#: contact-page.php:118
+msgid ""
+"Посетите наш раздел на "
+"Booking.com"
+msgstr ""
+
+#: contact-page.php:119
+msgid "Перейти"
+msgstr ""
+
+#: files/back/breadcrumbs.php:11
+msgid "Блог"
+msgstr ""
+
+#: files/back/breadcrumbs.php:13
+msgid "Результаты поиска"
+msgstr ""
+
+#: files/back/breadcrumbs.php:14
+msgid "Записи с тегом"
+msgstr ""
+
+#: files/back/breadcrumbs.php:15
+msgid "Ошибка 404"
+msgstr ""
+
+#: files/back/breadcrumbs.php:16
+msgid "Страница "
+msgstr ""
+
+#: files/back/breadcrumbs.php:17
+msgid ""
+"Страница комментариев "
+msgstr ""
+
+#: files/back/comments-atts.php:34
+msgid ""
+"Ваш комментарий будет "
+"опубликован после "
+"проверки администратором."
+msgstr ""
+
+#: files/back/optimize.php:98
+msgid ""
+"Сохранить имя и e-mail в "
+"этом браузере для моих "
+"последующих комментариев"
+msgstr ""
+
+#: files/back/options-sidebar.php:12
+#: files/back/theme-functions.php:198
+msgid ""
+"Боковая колонка (сайдбар)"
+msgstr ""
+
+#: files/back/rooms-functions.php:16
+msgid ""
+"Поставьте галочку для "
+"вывода на Главной "
+"странице"
+msgstr ""
+
+#: files/back/rooms-functions.php:178
+msgid ""
+"Короткое описание "
+"используется в анонсе на "
+"странице номеров"
+msgstr ""
+
+#: files/back/rooms-functions.php:444
+#: files/back/rooms-functions.php:462
+msgid ""
+"Одна односпальная кровать"
+msgstr ""
+
+#: files/back/rooms-functions.php:447
+#: files/back/rooms-functions.php:465
+msgid ""
+"Одна двуспальная кровать"
+msgstr ""
+
+#: files/back/rooms-functions.php:450
+#: files/back/rooms-functions.php:468
+#: files/back/rooms-functions.php:469
+msgid ""
+"Две односпальных кровати"
+msgstr ""
+
+#: files/back/rooms-functions.php:521
+#: files/back/rooms-functions.php:558
+msgid "Для некурящих"
+msgstr ""
+
+#: files/back/rooms-functions.php:524
+#: files/back/rooms-functions.php:561
+msgid "Кондиционер"
+msgstr ""
+
+#: files/back/rooms-functions.php:527
+#: files/back/rooms-functions.php:564
+msgid ""
+"Ванна или душевая кабина"
+msgstr ""
+
+#: files/back/rooms-functions.php:530
+#: files/back/rooms-functions.php:567
+msgid "ЖК-телевизор"
+msgstr ""
+
+#: files/back/rooms-functions.php:533
+#: files/back/rooms-functions.php:570
+msgid "Сейф"
+msgstr ""
+
+#: files/back/rooms-functions.php:536
+#: files/back/rooms-functions.php:573
+msgid "Бесплатный Wi-Fi"
+msgstr ""
+
+#: files/back/rooms-functions.php:539
+#: files/back/rooms-functions.php:576
+msgid ""
+"Банные принадлежности"
+msgstr ""
+
+#: files/back/rooms-functions.php:542
+#: files/back/rooms-functions.php:579
+msgid "Фен"
+msgstr ""
+
+#: files/back/rooms-functions.php:545
+#: files/back/rooms-functions.php:582
+msgid "Холодильник"
+msgstr ""
+
+#: files/back/rooms-post_type.php:7
+#: files/back/rooms-post_type.php:9
+#: files/back/rooms-post_type.php:45
+msgid "Номера"
+msgstr ""
+
+#: files/back/rooms-post_type.php:8
+#: files/back/rooms-post_type.php:10
+#: files/back/rooms-post_type.php:44
+msgid "Номер"
+msgstr ""
+
+#: files/back/rooms-post_type.php:11
+msgid "Архив Номеров"
+msgstr ""
+
+#: files/back/rooms-post_type.php:12
+msgid "Свойства"
+msgstr ""
+
+#: files/back/rooms-post_type.php:13
+msgid ""
+"Родительская карточка "
+"Номера:"
+msgstr ""
+
+#: files/back/rooms-post_type.php:14
+msgid "Все Номера"
+msgstr ""
+
+#: files/back/rooms-post_type.php:15
+#: files/back/rooms-post_type.php:16
+msgid ""
+"Добавить новый Номер"
+msgstr ""
+
+#: files/back/rooms-post_type.php:17
+msgid "Новая Номер"
+msgstr ""
+
+#: files/back/rooms-post_type.php:18
+msgid "Редактировать "
+msgstr ""
+
+#: files/back/rooms-post_type.php:19
+msgid "Обновить "
+msgstr ""
+
+#: files/back/rooms-post_type.php:20
+#: files/back/rooms-post_type.php:21
+msgid "Посмотреть"
+msgstr ""
+
+#: files/back/rooms-post_type.php:22
+msgid "Искать Номера"
+msgstr ""
+
+#: files/back/rooms-post_type.php:23
+msgid "Номера не найдены"
+msgstr ""
+
+#: files/back/rooms-post_type.php:24
+msgid "Не найдено"
+msgstr ""
+
+#: files/back/rooms-post_type.php:25
+msgid "Изображение Номера"
+msgstr ""
+
+#: files/back/rooms-post_type.php:26
+msgid ""
+"Установить изображение "
+"Номера"
+msgstr ""
+
+#: files/back/rooms-post_type.php:27
+msgid ""
+"Удалить изображение "
+"Номера"
+msgstr ""
+
+#: files/back/rooms-post_type.php:28
+msgid ""
+"Использовать как "
+"изображение Номера"
+msgstr ""
+
+#: files/back/rooms-post_type.php:29
+msgid "Вставить в "
+msgstr ""
+
+#: files/back/rooms-post_type.php:30
+msgid "Загружено"
+msgstr ""
+
+#: files/back/rooms-post_type.php:31
+msgid "Список Номеров"
+msgstr ""
+
+#: files/back/rooms-post_type.php:32
+msgid ""
+"Навигация по Номерам"
+msgstr ""
+
+#: files/back/rooms-post_type.php:33
+msgid "Фильтр Номеров"
+msgstr ""
+
+#: files/back/theme-functions.php:94
+msgid "Выбрать язык"
+msgstr ""
+
+#: files/back/theme-functions.php:99
+msgid "Меню сайта"
+msgstr ""
+
+#: files/back/theme-functions.php:106
+msgid ""
+"Звонок или онлайт-чат"
+msgstr ""
+
+#: files/back/theme-functions.php:113
+#: files/front/popup-contact.php:44
+msgid "Позвонить"
+msgstr ""
+
+#: files/back/theme-functions.php:115
+#: files/front/popup-contact.php:46
+msgid "Написать в WhatsApp"
+msgstr ""
+
+#: files/back/theme-functions.php:349
+msgid "Следующая запись"
+msgstr ""
+
+#: files/back/theme-functions.php:350
+msgid "Предыдущая запись"
+msgstr ""
+
+#: files/back/theme-functions.php:365
+msgid "Назад"
+msgstr ""
+
+#: files/back/theme-functions.php:366
+msgid "Вперёд"
+msgstr ""
+
+#: files/back/theme-functions.php:367
+msgid "Навигация"
+msgstr ""
+
+#: files/front/header-contact.php:9
+msgid ""
+"Звонок или онлайн-чат"
+msgstr ""
+
+#: files/front/more-rooms.php:10
+msgid ""
+"Другие варианты "
+"размещения"
+msgstr ""
+
+#: files/front/popup-contact.php:41
+msgid ""
+"Позвоните или напишите "
+"нам"
+msgstr ""
+
+#: files/front/popup-contact.php:48
+msgid ""
+"Либо закажите обратный "
+"звонок"
+msgstr ""
+
+#: files/front/popup-contact.php:57
+#: files/front/popup-rooms.php:43
+msgid ""
+"Я даю согласие на сбор и "
+"обработку персональных "
+"данных"
+msgstr ""
+
+#: files/front/share-btns.php:6
+msgid ""
+"Поделитесь с друзьями"
+msgstr ""
+
+#: files/front/slide-block.php:47
+#: home/home-rooms.php:108
+msgid "Подробности"
+msgstr ""
+
+#: footer.php:64
+msgid ""
+"Справки и бронирование"
+msgstr ""
+
+#: footer.php:84
+msgid ""
+"Разработано в "
+"GoodwinPress"
+msgstr ""
+
+#: home/home-rooms.php:90
+msgid "Оборудование номера"
+msgstr ""
+
+#: home/home-rooms.php:96
+#: single-rooms.php:52
+msgid "Площадь номера"
+msgstr ""
+
+#: home/home-rooms.php:128
+msgid ""
+"Посмотреть все номера"
+msgstr ""
+
+#: home/home-services.php:127
+msgid "Раннее заселение"
+msgstr ""
+
+#: home/home-services.php:130
+#: home/home-services.php:144
+#: home/home-services.php:158
+#: home/home-services.php:172
+#: home/home-services.php:186
+#: home/home-services.php:200
+#: home/home-services.php:214
+#: home/home-services.php:228
+#: home/home-services.php:242
+#: home/home-services.php:256
+#: home/home-services.php:270
+#: home/home-services.php:284
+#: home/home-services.php:298
+#: home/home-services.php:312
+#: home/home-services.php:326
+#: home/home-services.php:340
+#: home/home-services.php:354
+#: home/home-services.php:368
+#: home/home-services.php:382
+#: home/home-services.php:396
+#: home/home-services.php:410
+msgid "Платно"
+msgstr ""
+
+#: home/home-services.php:132
+#: home/home-services.php:146
+#: home/home-services.php:160
+#: home/home-services.php:174
+#: home/home-services.php:188
+#: home/home-services.php:202
+#: home/home-services.php:216
+#: home/home-services.php:230
+#: home/home-services.php:244
+#: home/home-services.php:258
+#: home/home-services.php:272
+#: home/home-services.php:286
+#: home/home-services.php:300
+#: home/home-services.php:314
+#: home/home-services.php:328
+#: home/home-services.php:342
+#: home/home-services.php:356
+#: home/home-services.php:370
+#: home/home-services.php:384
+#: home/home-services.php:398
+#: home/home-services.php:412
+msgid "Бесплатно"
+msgstr ""
+
+#: home/home-services.php:141
+msgid "Ресторан"
+msgstr ""
+
+#: home/home-services.php:155
+msgid "Салон красоты"
+msgstr ""
+
+#: home/home-services.php:169
+msgid "Трансфер"
+msgstr ""
+
+#: home/home-services.php:183
+msgid "Питомцы"
+msgstr ""
+
+#: home/home-services.php:197
+msgid "Парковка"
+msgstr ""
+
+#: home/home-services.php:211
+msgid "Ресепшн 24/7"
+msgstr ""
+
+#: home/home-services.php:225
+msgid "Камера хранения"
+msgstr ""
+
+#: home/home-services.php:239
+msgid "Завтраки"
+msgstr ""
+
+#: home/home-services.php:253
+msgid "Доставка в номер"
+msgstr ""
+
+#: home/home-services.php:267
+msgid "Экскурсии"
+msgstr ""
+
+#: home/home-services.php:281
+msgid "Wi-Fi"
+msgstr ""
+
+#: home/home-services.php:295
+msgid "Конференц-зал"
+msgstr ""
+
+#: home/home-services.php:309
+msgid "Бизнес-услуги"
+msgstr ""
+
+#: home/home-services.php:323
+msgid "Бассейн"
+msgstr ""
+
+#: home/home-services.php:337
+msgid "Спортзал"
+msgstr ""
+
+#: home/home-services.php:351
+msgid "Прачечная"
+msgstr ""
+
+#: home/home-services.php:365
+msgid "Утюг"
+msgstr ""
+
+#: home/home-services.php:379
+msgid "Услуга Будильник"
+msgstr ""
+
+#: home/home-services.php:393
+msgid "Визовая поддержка"
+msgstr ""
+
+#: home/home-services.php:407
+msgid "Анти-ковид"
+msgstr ""
+
+#: search.php:24
+msgid "Вы искали"
+msgstr ""
+
+#: search.php:25
+msgid "Найдено публикаций"
+msgstr ""
+
+#: single-rooms.php:34
+msgid ""
+"Стоимость проживания"
+msgstr ""
+
+#: single.php:50
+msgid "Продолжение"
+msgstr ""
+
+#: thankyou-page.php:49
+msgid ""
+"Сообщение отправлено"
+msgstr ""

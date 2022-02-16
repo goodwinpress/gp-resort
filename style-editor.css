@@ -1,0 +1,44 @@
+/* Raleway-regular - latin_cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-display:swap;
+  font-weight: 400;
+  src: local(''),
+	   url('files/font/raleway-v18-latin_cyrillic-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+	   url('files/font/raleway-v18-latin_cyrillic-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* Raleway-700 - latin_cyrillic */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-display:swap;
+  font-weight: 700;
+  src: local(''),
+	   url('files/font/raleway-v18-latin_cyrillic-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+	   url('files/font/raleway-v18-latin_cyrillic-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+ 
+ @font-face {
+   font-family: 'Alice';
+   font-style: normal;
+   font-display:swap;
+   font-weight: 400;
+   src: local(''),
+		url('files/font/alice/alice-v12-latin_cyrillic-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+		url('files/font/alice/alice-v12-latin_cyrillic-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+ }
+ 
+
+.editor-post-title__block .editor-post-title__input{font-family: 'Alice'; font-weight:400; color: #293b5f}
+body{font-family:'Raleway', sans-serif;font-size:18px;line-height:1.65;background: #fff; color: #293b5f; font-weight:400}
+b,strong, h1,h2,h3,h4,h5,h6 {font-family: 'Alice'; font-weight:400;}
+ 
+h1{font-size:26px}
+h2{font-size:24px}
+h3{font-size:22px}
+h4{font-size:20px}
+h5{font-size:19px}
+h6{font-size:18px}
+.edit-post-visual-editor{background-color: #fff !important}
